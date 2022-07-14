@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bercowskya/ZIDAS2022/main)
+
 # Chapter 2: Python - Data Handling, Analysis and Plotting
 
 When performing an image analysis pipeline, a programming language like Python is mainly used for two distinctive applications: (1) the analysis of the acquired images, such as background removal, noise reduction, object segmentation, etc. and (2) the analysis of the data obtained as a result of the image analysis, such as a calculating a histogram from the noise-removed image or statistics on the shape of the segmented object. The aim of this chapter is to show Python as a tool to analyze the data obtained as the final step of a bio-image analysis workflow. Specific Python libraries for data handling and plotting are discussed along this chapter. Jupyter notebooks (specified in red at the beginning of each section) are available for the reader to follow the examples and to play with the Python code:
